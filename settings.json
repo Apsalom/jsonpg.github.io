@@ -1,0 +1,16 @@
+{
+    "wifi": {
+        "state": "on",
+        "networkname": "mistral_wifi",
+        "password": "pass@123"
+    }, 
+    "bluetooth": {
+        "state": "off"
+    },
+    "datausage": {
+        "state": "on"
+    },
+    "language": {
+        "code": "en_US"
+    }
+}
